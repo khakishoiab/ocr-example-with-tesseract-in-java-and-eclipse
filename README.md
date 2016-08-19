@@ -13,4 +13,4 @@ it doesnt recognise handwritten text images but sure I will add it in some time)
 -3: you can also generate a jar file of the project easily for distribution but make sure you place the tessdata folder 
 and the jar at same place else it will throw and error.
 
-Note: The accuracy may varry with blurred or certain other images like mathematical formulas right now.
+Note: The accuracy may varry with blurred or certain other images like mathematical formulas right now.You can add equ.traineddata for mathematical formulas.
